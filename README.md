@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img alt="Donnie" src="https://github.com/EduardoWill/edwill/raw/main/src/DonnieDumby.png" style=" height: 300px; object-fit: cover; object-position: center;">
+  <img alt="Donnie" src="https://raw.githubusercontent.com/EduardoWill/EduardoWill/main/src/DonnieDumby.png" style="height: 300px; object-fit: cover; object-position: center;">
 </div>
 
 
