@@ -15,7 +15,7 @@
   
 
 
-<img align="right" alt="Silver the Hedgehog" height="190px" src="./src/Silver.jpg">
+<img align="right" alt="Silver the Hedgehog" height="190px" src="src/Silver.jpg">
 
 <h3 align="left">Connect with me!</h3>
 
