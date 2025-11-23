@@ -13,7 +13,7 @@
   
 
 
-<img align="right" alt="Silver the Hedgehog" height="190px" src="src/donnieEstrelas.png">
+<img align="right" alt="Silver the Hedgehog" height="190px" src="src/yellowDonnie.png">
 
 <h3 align="left">Connect with me!</h3>
 
