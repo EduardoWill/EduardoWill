@@ -3,9 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&pause=1000&color=FFB02F&background=FF252F00&center=true&vCenter=true&repeat=false&width=435&lines=Bem+vindo+ao+meu+github!+" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
-  <img alt="Donnie" src="src/DonnieDumby.png" style="height: 300px; object-fit: cover; object-position: center;">
-</div>
+
 
 
 
